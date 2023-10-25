@@ -1,0 +1,1 @@
+module.exports = {"siteUrl": "https://memory-span.vercel.app/", "generateRobotsTxt": true}
