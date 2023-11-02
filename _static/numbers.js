@@ -58,10 +58,6 @@ function startNewLevel() {
 
 
 function checkIfMatch() {
-    if (userSequence.value.length === 0) {
-        return false;
-    }
-
     if (sequence.length != numberArray.length) {
         return false;
     }
