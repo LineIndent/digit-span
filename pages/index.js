@@ -186,7 +186,7 @@ With each level the number of digits generated is \`increased by 1\`.
 </VStack>
   <HStack sx={{"width": "100%", "height": "50px", "padding": ["0 1rem", "0 1rem", "0 1rem", "0 4rem", "0 10rem"]}}>
   <Text sx={{"fontSize": ["13px", "14px", "14px", "14px", "14px"], "transition": "all 550ms ease"}}>
-  {`Copyright © 2023 S. Ahmad P. Hakimi`}
+  {`Copyright © 2024 S. Ahmad P. Hakimi`}
 </Text>
   <Spacer/>
   <Button colorScheme={`None`} onClick={...args => {goGame(args)}} sx={{"_dark": {"color": "white"}, "_light": {"color": "black"}, "padding": "0 0.35rem", "fontWeight": "None"}}>
